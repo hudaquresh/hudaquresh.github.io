@@ -20,3 +20,5 @@ github_username:  hudaquresh
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
